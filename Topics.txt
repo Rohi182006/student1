@@ -1,0 +1,8 @@
+1.Data Collection
+2.Data Preproccessing
+3.Exploratrie Data analysis
+4.Model Implementation
+5.Prediction
+
+Topics:-
+1.
